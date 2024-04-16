@@ -1,4 +1,4 @@
-### ㅤㅤㅤㅤㅤㅤOla! Este é o nosso gerenciamento do estoque do nosso supermercado    💻   
+### ㅤㅤㅤㅤㅤOla! Este é o nosso gerenciamento do estoque do nosso supermercado    💻   
 ㅤㅤ
 
 ### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Integrantes do grupo:
