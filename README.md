@@ -10,7 +10,7 @@
    
 Escolha uma opção:
 
-### Como fincionam
+### Como Funciona
 
 Ele permite que os usuários insiram itens no estoque, removam itens, editem as quantidades dos itens e visualizem o inventário atual. O usuário interage com o programa através de um menu de opções onde pode realizar as operações desejadas. O sistema mantém uma lista de itens e suas quantidades em arrays, e os manipula de acordo com as ações do usuário.
 ㅤ
