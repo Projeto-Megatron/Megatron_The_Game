@@ -1,5 +1,16 @@
 ### Ola! Este é o nosso gerenciamento do estoque do nosso supermercado    💻   
-ㅤㅤ
+
+### O programa é executado assim
+
+1. Inserir Intem
+2. Remover Item
+3. Editar Quantidade
+4. Visualizar Estoque
+5. Sair
+   
+Escolha uma opção:
+
+
 
 ### Integrantes do grupo
      Victor Raphael
