@@ -1,7 +1,7 @@
 ### ㅤㅤㅤㅤㅤㅤOla! Este é o nosso gerenciamento do estoque do nosso supermercado    💻   
 ㅤㅤ
 
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤIntegrantes do grupo:
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤIntegrantes do grupo:
      Victor Raphael
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-raphael-74a96027b)
