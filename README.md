@@ -1,6 +1,6 @@
-### Ola! Este é o nosso gerenciamento do estoque do nosso supermercado    💻   
+### Olá! Este é o nosso gerenciamento do estoque do nosso supermercado    💻   
 
-### O programa é executado assim
+### O programa é executado assim:
 
 1. Inserir Intem
 2. Remover Item
